@@ -25,10 +25,10 @@
 
 ### 🔀 Развилка жанров (Выберите свой путь):
 * **Если вы хотите создавать Симуляторы:**
-  * [Лекция: Как создавать симуляторы в Роблокс](https://www.youtube.com/watch?v=UAXGwGsxpR8&list=PLl1Tso3TyF55UEnXsYkmsamFqKUBdgo1S)
+  * [Как создавать симуляторы в Роблокс](https://www.youtube.com/watch?v=UAXGwGsxpR8&list=PLl1Tso3TyF55UEnXsYkmsamFqKUBdgo1S)
 * **Если вы хотите создавать PVP / Файтинги:**
   * [Создание комбат-системы (Часть 1)](https://youtu.be/U05tql-zSMk?si=KVw4dyBAJfIcj7Qv)
-  * [Лекция: Создание комбат-системы (Часть 2)](https://www.youtube.com/watch?v=VdGwUfv7_cA&t=807s)
+  * [Создание комбат-системы (Часть 2)](https://www.youtube.com/watch?v=VdGwUfv7_cA&t=807s)
   * [Продвинутый плейлист по PVP-механикам (Много серий)](https://www.youtube.com/watch?v=T_jUe1Ln9GM&list=PL4CHT4GnImNgLJiE5Z7WREYQGlJTKISjU)
 
 ---
